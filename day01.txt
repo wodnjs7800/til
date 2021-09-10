@@ -1,0 +1,17 @@
+# 2021년 9월 10일 금요일
+
+## - Git
+- git init
+- git status
+- git add .
+- git commit -m ""
+- git log
+- git remote add origin ~
+- git push -u origin master
+- git clone reop_url
+- git restor -- staged {file}
+
+## - Branch
+- git branch {file}
+- git checkout {file}
+- git merge {file}
